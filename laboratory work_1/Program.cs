@@ -38,7 +38,6 @@ namespace laboratory_work_1
             Console.WriteLine($"y = {y}");
             Console.WriteLine($"\nПроверка: {a}*({x}) + {b}*({y}) = {a * x + b * y}");
 
-            // ==== ДАННЫЕ СТУДЕНТА ====
             Console.WriteLine("\nВыполнил:");
             Console.WriteLine("Коровин Валерий Александрович");
             Console.WriteLine("Группа: 090301-ПОВв-з24");

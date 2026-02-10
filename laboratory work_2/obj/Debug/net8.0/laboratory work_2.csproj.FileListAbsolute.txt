@@ -1,0 +1,18 @@
+C:\Users\root\source\repos\laboratory work\laboratory work_2\bin\Debug\net8.0\laboratory work_2.exe
+C:\Users\root\source\repos\laboratory work\laboratory work_2\bin\Debug\net8.0\laboratory work_2.deps.json
+C:\Users\root\source\repos\laboratory work\laboratory work_2\bin\Debug\net8.0\laboratory work_2.runtimeconfig.json
+C:\Users\root\source\repos\laboratory work\laboratory work_2\bin\Debug\net8.0\laboratory work_2.dll
+C:\Users\root\source\repos\laboratory work\laboratory work_2\bin\Debug\net8.0\laboratory work_2.pdb
+C:\Users\root\source\repos\laboratory work\laboratory work_2\bin\Debug\net8.0\MathNet.Numerics.dll
+C:\Users\root\source\repos\laboratory work\laboratory work_2\obj\Debug\net8.0\laboratory work_2.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\laboratory work\laboratory work_2\obj\Debug\net8.0\laboratory work_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\laboratory work\laboratory work_2\obj\Debug\net8.0\laboratory work_2.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\laboratory work\laboratory work_2\obj\Debug\net8.0\laboratory work_2.AssemblyInfo.cs
+C:\Users\root\source\repos\laboratory work\laboratory work_2\obj\Debug\net8.0\laboratory work_2.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\laboratory work\laboratory work_2\obj\Debug\net8.0\laboratory work_2.sourcelink.json
+C:\Users\root\source\repos\laboratory work\laboratory work_2\obj\Debug\net8.0\laborato.557FC459.Up2Date
+C:\Users\root\source\repos\laboratory work\laboratory work_2\obj\Debug\net8.0\laboratory work_2.dll
+C:\Users\root\source\repos\laboratory work\laboratory work_2\obj\Debug\net8.0\refint\laboratory work_2.dll
+C:\Users\root\source\repos\laboratory work\laboratory work_2\obj\Debug\net8.0\laboratory work_2.pdb
+C:\Users\root\source\repos\laboratory work\laboratory work_2\obj\Debug\net8.0\laboratory work_2.genruntimeconfig.cache
+C:\Users\root\source\repos\laboratory work\laboratory work_2\obj\Debug\net8.0\ref\laboratory work_2.dll
