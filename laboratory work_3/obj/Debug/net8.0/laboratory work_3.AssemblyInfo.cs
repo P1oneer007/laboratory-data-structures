@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("laboratory work_1")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("laboratory work_3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c53a5d58a6795861344e58eec61cdeccfa4a6b6e")]
-[assembly: System.Reflection.AssemblyProductAttribute("laboratory work_1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("laboratory work_1")]
+[assembly: System.Reflection.AssemblyProductAttribute("laboratory work_3")]
+[assembly: System.Reflection.AssemblyTitleAttribute("laboratory work_3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
