@@ -14,7 +14,7 @@ namespace laboratory_work_3
 
         static void Main()
         {
-            int N = 150000001;
+            int N = 30000;
             string[] moves = GenerateMoves(N);
 
             Console.WriteLine($"Количество ходов: {N}\n");
@@ -28,7 +28,7 @@ namespace laboratory_work_3
             Console.WriteLine("Группа: 090301-ПОВв-з24");
         }
 
-        // Array
+        // Array. Тестирование через Динамический массив 
         static void TestArray(string[] moves)
         {
             var sw = Stopwatch.StartNew();
@@ -55,10 +55,10 @@ namespace laboratory_work_3
 
         end:
             sw.Stop();
-            Console.WriteLine($"Array: repeat={repeat}, time={sw.ElapsedMilliseconds} ms");
+            Console.WriteLine($"Array: repeat={repeat}, time={sw.Elapsed.TotalMilliseconds} ms");
         }
 
-        // Linked List
+        // Linked List. Тестирование через Связанный список
         static void TestLinkedList(string[] moves)
         {
             var sw = Stopwatch.StartNew();
@@ -85,10 +85,10 @@ namespace laboratory_work_3
 
         end:
             sw.Stop();
-            Console.WriteLine($"LinkedList: repeat={repeat}, time={sw.ElapsedMilliseconds} ms");
+            Console.WriteLine($"LinkedList: repeat={repeat}, time={sw.Elapsed.TotalMilliseconds} ms");
         }
 
-        // Hashset
+        // Hashset. Тестирование через Хэш-таблицу
         static void TestHashSet(string[] moves)
         {
             var sw = Stopwatch.StartNew();
@@ -111,10 +111,10 @@ namespace laboratory_work_3
             }
 
             sw.Stop();
-            Console.WriteLine($"HashSet: repeat={repeat}, time={sw.ElapsedMilliseconds} ms");
+            Console.WriteLine($"HashSet: repeat={repeat}, time={sw.Elapsed.TotalMilliseconds} ms");
         }
 
-        // Move
+        // Move. Логика движения короля
         static void Move(ref int x, ref int y, string m)
         {
             switch (m)
@@ -130,10 +130,10 @@ namespace laboratory_work_3
             }
         }
 
-        // Generator
+        // Generator. генерация ходов
         static string[] GenerateMoves(int n)
         {
-            string[] dirs = { "U", "D", "L", "R", "UL", "UR", "DL", "DR" };
+            string[] dirs = { /*"U", "D",*/ "L", "R" /*, "UL", "UR", "DL", "DR"*/ }; 
             Random r = new Random();
             string[] m = new string[n];
 
