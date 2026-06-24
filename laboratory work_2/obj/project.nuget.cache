@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ulsEHguAoys=",
+  "dgSpecHash": "I7Pef7xn3f4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\root\\source\\repos\\laboratory work\\laboratory work_2\\laboratory work_2.csproj",
+  "projectFilePath": "D:\\source\\repos\\laboratory-data-structures\\laboratory work_2\\laboratory work_2.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\root\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+    "C:\\Users\\Валерий Коровин\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
+    "C:\\Users\\Валерий Коровин\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\Валерий Коровин\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\Валерий Коровин\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\Валерий Коровин\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.28\\microsoft.netcore.app.host.win-x64.8.0.28.nupkg.sha512"
   ],
   "logs": []
 }

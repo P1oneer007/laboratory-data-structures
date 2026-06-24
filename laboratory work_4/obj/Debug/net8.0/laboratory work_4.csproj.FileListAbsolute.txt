@@ -1,0 +1,15 @@
+D:\source\repos\laboratory-data-structures\laboratory work_4\bin\Debug\net8.0\laboratory work_4.exe
+D:\source\repos\laboratory-data-structures\laboratory work_4\bin\Debug\net8.0\laboratory work_4.deps.json
+D:\source\repos\laboratory-data-structures\laboratory work_4\bin\Debug\net8.0\laboratory work_4.runtimeconfig.json
+D:\source\repos\laboratory-data-structures\laboratory work_4\bin\Debug\net8.0\laboratory work_4.dll
+D:\source\repos\laboratory-data-structures\laboratory work_4\bin\Debug\net8.0\laboratory work_4.pdb
+D:\source\repos\laboratory-data-structures\laboratory work_4\obj\Debug\net8.0\laboratory work_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\laboratory-data-structures\laboratory work_4\obj\Debug\net8.0\laboratory work_4.AssemblyInfoInputs.cache
+D:\source\repos\laboratory-data-structures\laboratory work_4\obj\Debug\net8.0\laboratory work_4.AssemblyInfo.cs
+D:\source\repos\laboratory-data-structures\laboratory work_4\obj\Debug\net8.0\laboratory work_4.csproj.CoreCompileInputs.cache
+D:\source\repos\laboratory-data-structures\laboratory work_4\obj\Debug\net8.0\laboratory work_4.sourcelink.json
+D:\source\repos\laboratory-data-structures\laboratory work_4\obj\Debug\net8.0\laboratory work_4.dll
+D:\source\repos\laboratory-data-structures\laboratory work_4\obj\Debug\net8.0\refint\laboratory work_4.dll
+D:\source\repos\laboratory-data-structures\laboratory work_4\obj\Debug\net8.0\laboratory work_4.pdb
+D:\source\repos\laboratory-data-structures\laboratory work_4\obj\Debug\net8.0\laboratory work_4.genruntimeconfig.cache
+D:\source\repos\laboratory-data-structures\laboratory work_4\obj\Debug\net8.0\ref\laboratory work_4.dll

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Tquf8YkocYg=",
+  "dgSpecHash": "uc7UmXb8z/M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\root\\source\\repos\\laboratory work\\laboratory work_3\\laboratory work_3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\source\\repos\\laboratory-data-structures\\laboratory work_3\\laboratory work_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Валерий Коровин\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\Валерий Коровин\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\Валерий Коровин\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\Валерий Коровин\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.28\\microsoft.netcore.app.host.win-x64.8.0.28.nupkg.sha512"
+  ],
   "logs": []
 }

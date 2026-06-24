@@ -13,3 +13,18 @@ C:\Users\root\source\repos\laboratory work\laboratory work_3\obj\Debug\net8.0\re
 C:\Users\root\source\repos\laboratory work\laboratory work_3\obj\Debug\net8.0\laboratory work_3.pdb
 C:\Users\root\source\repos\laboratory work\laboratory work_3\obj\Debug\net8.0\laboratory work_3.genruntimeconfig.cache
 C:\Users\root\source\repos\laboratory work\laboratory work_3\obj\Debug\net8.0\ref\laboratory work_3.dll
+D:\source\repos\laboratory-data-structures\laboratory work_3\bin\Debug\net8.0\laboratory work_3.exe
+D:\source\repos\laboratory-data-structures\laboratory work_3\bin\Debug\net8.0\laboratory work_3.deps.json
+D:\source\repos\laboratory-data-structures\laboratory work_3\bin\Debug\net8.0\laboratory work_3.runtimeconfig.json
+D:\source\repos\laboratory-data-structures\laboratory work_3\bin\Debug\net8.0\laboratory work_3.dll
+D:\source\repos\laboratory-data-structures\laboratory work_3\bin\Debug\net8.0\laboratory work_3.pdb
+D:\source\repos\laboratory-data-structures\laboratory work_3\obj\Debug\net8.0\laboratory work_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\laboratory-data-structures\laboratory work_3\obj\Debug\net8.0\laboratory work_3.AssemblyInfoInputs.cache
+D:\source\repos\laboratory-data-structures\laboratory work_3\obj\Debug\net8.0\laboratory work_3.AssemblyInfo.cs
+D:\source\repos\laboratory-data-structures\laboratory work_3\obj\Debug\net8.0\laboratory work_3.csproj.CoreCompileInputs.cache
+D:\source\repos\laboratory-data-structures\laboratory work_3\obj\Debug\net8.0\laboratory work_3.sourcelink.json
+D:\source\repos\laboratory-data-structures\laboratory work_3\obj\Debug\net8.0\laboratory work_3.dll
+D:\source\repos\laboratory-data-structures\laboratory work_3\obj\Debug\net8.0\refint\laboratory work_3.dll
+D:\source\repos\laboratory-data-structures\laboratory work_3\obj\Debug\net8.0\laboratory work_3.pdb
+D:\source\repos\laboratory-data-structures\laboratory work_3\obj\Debug\net8.0\laboratory work_3.genruntimeconfig.cache
+D:\source\repos\laboratory-data-structures\laboratory work_3\obj\Debug\net8.0\ref\laboratory work_3.dll

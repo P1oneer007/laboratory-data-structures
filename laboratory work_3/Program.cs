@@ -14,7 +14,7 @@ namespace laboratory_work_3
 
         static void Main()
         {
-            int N = 3500;
+            int N = 150000001;
             string[] moves = GenerateMoves(N);
 
             Console.WriteLine($"Количество ходов: {N}\n");
